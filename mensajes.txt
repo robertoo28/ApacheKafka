@@ -1,0 +1,29 @@
+{
+  "message": "Escribiendo"
+}
+{
+  "message": "Mensaje 2 "
+}
+{
+  "message": "Mensaje hacía another-topic"
+}
+{
+    "message": "Hola, este es un mensaje enviado a Kafka desde el publicador!"
+}
+
+{
+  "message": "Mensaje hacía another-topic"
+}
+{
+  "message": "Mensaje hacía another-topic"
+}
+{
+  "message": "Hola, este es un mensaje para another-topic!"
+}
+
+{
+  "message": "Mensaje de prueba para el informe, topic 1"
+}
+{
+  "message": "Mensaje para another-topic para el informe"
+}

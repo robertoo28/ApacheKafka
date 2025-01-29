@@ -1,0 +1,14 @@
+Comandos de interes
+
+
+docker-compose -d 
+Subir el compose
+
+docker ps ver mis contenedores
+
+docker exec -it nombrecontenedor bash 
+para poder ejecutar la consola de mi contenedores
+
+
+docker logs -f nombrecontenedor ver los logs de mi contenedor 
+
